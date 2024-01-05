@@ -2,9 +2,10 @@
 
 
 ## print
-
-
+text = " Welcome "
+print(text.center(40, "#"))
 ## รับข้อมูลจากผู้ใช้งาน
-
+name = input("enter your name : ")
 
 ## print
+print("Hello", name)
